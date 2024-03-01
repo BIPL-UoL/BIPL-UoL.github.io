@@ -1,3 +1,13 @@
+- title: "Joint beamforming and compressed sensing for uplink grant-free access"
+  image: SDMA-GF.pdf
+  description: 
+  authors: 
+  link:
+    url: https://www.techrxiv.org/doi/full/10.36227/techrxiv.22723736.v1
+    display:  G. Xia et al., IEEE Trans. Wireless Commun.
+  highlight: 1
+  news2:
+  
 - title: "CLANet: A Comprehensive Framework for Cross-Batch Cell Line Identification Using Brightfield Images"
   image: Tong lei Medical image analysis.png
   description: 
