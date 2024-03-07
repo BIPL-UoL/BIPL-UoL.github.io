@@ -1,3 +1,13 @@
+- title: "Long-short diffeomorphism memory network for weakly-supervised ultrasound landmark tracking"
+  image: Zhihua LSDM.png
+  description: 
+  authors: 
+  link:
+    url: https://arxiv.org/pdf/2301.04748.pdf
+    display:  Z. Liu et al., Medical Image Analysis (2024).
+  highlight: 1
+  news2:
+
 - title: "Joint beamforming and compressed sensing for uplink grant-free access"
   image: SDMA-GF.png
   description: 
