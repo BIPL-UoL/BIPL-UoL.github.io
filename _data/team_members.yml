@@ -18,13 +18,13 @@
 
 - name: Zhihua Liu
   photo: zhihua.png
-  info: Graduate Teaching Assistant
+  info: PhD Candidate
   url: https://zhihualiued.github.io/
   group: 1
 
 - name: Lei Tong
   photo: leitong.jpg
-  info: Graduate Teaching Assistant
+  info: PhD Candidate
   url: https://leitong02.github.io/
   group: 1
   
@@ -34,11 +34,17 @@
   url: xinyu 
   group: 1
   
-  - name: Guoqing Xia
+- name: Yihang Zhu
   photo: bio-photo.jpg
-  info: 2nd supervisor, with Dr. Bing Ji
-  url: Guoqing
-  group: 2
+  info: PhD Candidate
+  url: Yihang 
+  group: 1 
+  
+- name: Guoqing Xia
+photo: bio-photo.jpg
+info: 2nd supervisor, with Dr. Bing Ji
+url: Guoqing
+group: 2
   
 - name: Shiyi Zhang
   photo: bio-photo.jpg
