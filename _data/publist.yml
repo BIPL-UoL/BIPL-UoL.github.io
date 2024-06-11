@@ -1,7 +1,7 @@
 - title: "Communicating COVID-19 vaccine information to Chinese communities in the UK: a qualitative study of their knowledge, information sources and trust"
   image: ??.png
   description: 
-  authors: Gong, Q., Gao, Z., Somerville, I., Steele, C., Wang, D. and Zhou, H.
+  authors: 
   link:
     url: ??
     display:  Gong, Q et al., BMJ Public Health (2024).
@@ -11,7 +11,7 @@
 - title: "Underwater object detection in noisy imbalanced datasets"
   image: Chen_L.png
   description: 
-  authors: Chen, L., Li, T., Zhou, A., Wang, S., Dong, J. and Zhou, H
+  authors: 
   link:
     url: https://doi.org/10.1016/j.patcog.2024.110649
     display:  Chen, L et al., Pattern Recognition (2024).
@@ -21,7 +21,7 @@
   - title: "InA: Inhibition adaption on pre-trained language models"
   image: Kang_C.png
   description: 
-  authors: Kang, C., Prokop, J., Tong, L., Zhou, H., Hu, Y. and Novak, D.
+  authors: 
   link:
     url: https://doi.org/10.1016/j.neunet.2024.106410
     display:  Kang, C. et al., Neural Networks (2024).
@@ -31,7 +31,7 @@
   - title: "Have we found a solution for health misinformation? A ten-year systematic review of health misinformation literature 2013-2022"
   image: Zhang_S.png
   description: 
-  authors: Zhang, S., Zhou, H. and Zhu, Y.
+  authors: 
   link:
     url: https://doi.org/10.1016/j.ijmedinf.2024.105478
     display:  Zhang, S. et al., International Journal of Medical Informatics. (2024).
