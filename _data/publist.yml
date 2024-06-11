@@ -1,3 +1,23 @@
+- title: "Communicating COVID-19 vaccine information to Chinese communities in the UK: a qualitative study of their knowledge, information sources and trust"
+  image: ??.png
+  description: 
+  authors: Gong, Q., Gao, Z., Somerville, I., Steele, C., Wang, D. and Zhou, H.
+  link:
+    url: ??
+    display:  Gong, Q et al., BMJ Public Health (2024).
+  highlight: 1
+  news2:
+  
+- title: "Underwater object detection in noisy imbalanced datasets"
+  image: Chen_L.png
+  description: 
+  authors: Chen, L., Li, T., Zhou, A., Wang, S., Dong, J. and Zhou, H
+  link:
+    url: https://doi.org/10.1016/j.patcog.2024.110649
+    display:  Chen, L et al., Pattern Recognition (2024).
+  highlight: 1
+  news2:
+
 - title: "Long-short diffeomorphism memory network for weakly-supervised ultrasound landmark tracking"
   image: Zhihua LSDM.png
   description: 
