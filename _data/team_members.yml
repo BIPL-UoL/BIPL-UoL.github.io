@@ -41,10 +41,10 @@
   group: 1 
   
 - name: Guoqing Xia
-photo: bio-photo.jpg
-info: 2nd supervisor, with Dr. Bing Ji
-url: Guoqing
-group: 2
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Dr. Bing Ji
+  url: Guoqing
+  group: 2
   
 - name: Shiyi Zhang
   photo: bio-photo.jpg
