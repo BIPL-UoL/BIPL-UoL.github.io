@@ -34,11 +34,23 @@
   url: xinyu 
   group: 1
   
+- name: Fang Chen
+  photo: bio-photo.jpg
+  info: PhD Candidate
+  url: fangchen
+  group: 1  
+  
 - name: Yihang Zhu
   photo: bio-photo.jpg
   info: PhD Candidate
   url: Yihang 
   group: 1 
+  
+- name: Long Chen
+  photo: lc.jpg
+  info: PhD Candidate
+  url: longchen
+  group: 1
   
 - name: Guoqing Xia
   photo: bio-photo.jpg
@@ -64,7 +76,7 @@
   url: 
   group: 8
   year: 1/2018-10/2020
-  current: RA at Lancaster University
+  current: Lecturer at Leicester University
   extlink: 
   
 - name: Christodoulos Rafael Ktiskakis
