@@ -70,6 +70,18 @@
   url: zhenyang
   group: 9
   
+- name: Dr Rui Qin
+  photo: bio-photo.jpg
+  info: Research assistant
+  url: Rui
+  group: 3
+  
+- name: Prof Yan Peng
+  photo: bio-photo.jpg
+  info: Capital Normal University, China
+  url: Yan
+  group: 4  
+  
 - name: Dr. Zheheng Jiang
   photo: bio-photo.jpg
   info: PhD student (co-supervised with Dr. Michael Hoffmann)
