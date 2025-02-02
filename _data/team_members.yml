@@ -3,18 +3,8 @@
   info: Professor
   url: https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou
   group: 0
-  
-- name: Honghu Du
-  photo: bio-photo.jpg
-  info: PhD Candidate
-  url: hongdu 
-  group: 1
-  
-- name: Feixiang Zhou
-  photo: fxz.jpg
-  info: PhD Candidate
-  url: feixiang
-  group: 1
+
+# PhD as their first supervisor group 1
 
 - name: Zhihua Liu
   photo: zhihua.png
@@ -22,65 +12,52 @@
   url: https://zhihualiued.github.io/
   group: 1
 
-- name: Lei Tong
-  photo: leitong.jpg
-  info: PhD Candidate
-  url: https://leitong02.github.io/
-  group: 1
-  
 - name: Xinyu Yang
   photo: bio-photo.jpg
-  info: co-supervised with Dr. Ng Leong
+  info: PhD Candidate
   url: xinyu 
   group: 1
   
-- name: Fang Chen
-  photo: bio-photo.jpg
-  info: PhD Candidate
-  url: fangchen
-  group: 1  
-  
+
 - name: Yihang Zhu
-  photo: bio-photo.jpg
+  photo: yihang.jpeg
   info: PhD Candidate
-  url: Yihang 
+  url: https://sites.google.com/view/zhuyihang/home
   group: 1 
   
-- name: Long Chen
-  photo: lc.jpg
-  info: PhD Candidate
-  url: longchen
-  group: 1
-  
+
+# PhD as their second supervisor group 9
+
 - name: Guoqing Xia
   photo: bio-photo.jpg
   info: 2nd supervisor, with Dr. Bing Ji
   url: Guoqing
   group: 9
-  
+
 - name: Shiyi Zhang
   photo: bio-photo.jpg
   info: 2nd supervisor, with Dr. Yimei Zhu
   url: shiyi
   group: 9
 
-- name: Zhenyang Li
-  photo: bio-photo.jpg
-  info: 2nd supervisor, with Prof. Lu Liu
-  url: zhenyang
-  group: 9
-  
+# Post-doc group 3
+
 - name: Dr Rui Qin
   photo: bio-photo.jpg
   info: Research assistant
   url: Rui
   group: 3
-  
+
+# visiting scholar group 4
+
+# Alumni  group 8
+
+
 - name: Prof Yan Peng
   photo: bio-photo.jpg
   info: Capital Normal University, China
   url: Yan
-  group: 4  
+  group: 8
   
 - name: Dr. Zheheng Jiang
   photo: bio-photo.jpg
@@ -148,4 +125,40 @@
   group: 8
   year: 5/2019
   current: 
- 
+
+- name: Honghui Du
+  photo: bio-photo.jpg
+  info: PhD Condidate
+  url: https://www.linkedin.com/in/honghui-du-06980435/
+  group: 8
+
+- name: Feixiang Zhou
+  photo: fxz.jpg
+  info: PhD Candidate
+  url: https://www.linkedin.com/in/feixiang-zhou-7358a1218/
+  group: 8
+
+- name: Lei Tong
+  photo: leitong.jpg
+  info: PhD Candidate
+  url: https://leitong02.github.io/
+  group: 8
+
+- name: Fang Chen
+  photo: bio-photo.jpg
+  info: PhD Candidate
+  url: fangchen
+  group: 8
+
+- name: Long Chen
+  photo: lc.jpg
+  info: PhD Candidate
+  url: longchen
+  group: 8
+
+- name: Zhenyang Li
+  photo: bio-photo.jpg
+  info: 2nd supervisor, with Prof. Lu Liu
+  url: zhenyang
+  group: 8
+

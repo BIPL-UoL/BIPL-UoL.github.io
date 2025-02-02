@@ -1,3 +1,59 @@
+
+
+# 2025 Feb 2rd
+
+- title: "A gut microbiota rheostat forecasts responsiveness to PD-L1 and VEGF blockade in mesothelioma"
+  image: 11.png
+  description:
+  authors:
+  link:
+    url: https://doi.org/10.1038/s41467-024-49842-5
+    display:  Zhang, M., et al., Nature Communications (2024).
+  highlight: 1
+  news2:
+
+- title: "Deep learning methods for calibrated photometric stereo and beyond"
+  image: 11.png
+  description:
+  authors:
+  link:
+    url: https://doi.org/10.1109/TPAMI.2024.3388150
+    display:  Ju, Y., et al., IEEE Trans. on Pattern Analysis and Machine Intelligence (2024).
+  highlight: 1
+  news2:
+
+- title: "SMC-NCA: Semantic-guided multi-level contrast for semi-supervised temporal action segmentation"
+  image: 11.png
+  description:
+  authors:
+  link:
+    url: https://doi.org/10.1109/TMM.2024.3452980
+    display:  Zhou, F., et al., IEEE Trans. on Multimedia (2024).
+  highlight: 1
+  news2:
+
+- title: "SRCNet: Seminal image representation collaborative network for oil spill segmentation in SAR imagery"
+  image: 11.png
+  description:
+  authors:
+  link:
+    url: https://doi.org/10.1109/TGRS.2024.3463404
+    display:  Chen, F., et al., IEEE Trans. on Geoscience and Remote Engineering (2024).
+  highlight: 1
+  news2:
+
+- title: "Maximizing contrast in XOR-based visual cryptography schemes"
+  image: 11.png
+  description:
+  authors:
+  link:
+    url: https://doi.org/10.1109/TCSVT.2024.3435724
+    display:  Jia, X., et al., IEEE Trans. on Circuits and Systems for Video Technology (2024).
+  highlight: 1
+  news2:
+
+
+# previous
 - title: "Communicating COVID-19 vaccine information to Chinese communities in the UK: a qualitative study of their knowledge, information sources and trust"
   image: 11.png
   description: 
@@ -155,7 +211,6 @@
   link:
     url: https://ieeexplore.ieee.org/document/9376702
     display:  Zhao et al. IEEE Trans. on Cybernetics (2021). [[Source Code](https://github.com/zhaoaite/CorrMNN)]
-  highlight: 1
   highlight: 1
   news2: 
 
