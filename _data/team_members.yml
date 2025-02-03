@@ -1,7 +1,7 @@
 - name: Huiyu Zhou
-  photo: huiyuzhou.jpeg
+  photo: zhouhuiyu.png
   info: Professor
-  url: https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou
+  url: https://le.ac.uk/people/huiyu-zhou
   group: 0
 
 # PhD as their first supervisor group 1
@@ -13,7 +13,7 @@
   group: 1
 
 - name: Xinyu Yang
-  photo: bio-photo.jpg
+  photo: xinyu.png
   info: PhD Candidate
   url: xinyu 
   group: 1
@@ -29,7 +29,7 @@
 # PhD as their second supervisor group 9
 
 - name: Guoqing Xia
-  photo: bio-photo.jpg
+  photo: guoqing.png
   info: 2nd supervisor, with Dr. Bing Ji
   url: Guoqing
   group: 9
@@ -61,7 +61,7 @@
   
 - name: Dr. Zheheng Jiang
   photo: bio-photo.jpg
-  info: PhD student (co-supervised with Dr. Michael Hoffmann)
+  info: PhD (co-supervised with Dr. Michael Hoffmann)
   url: 
   group: 8
   year: 1/2018-10/2020
@@ -74,8 +74,7 @@
   url: 
   group: 8
   year: 2018-2020
-  current: 
-  extlink: 
+  current:
 
 - name: Aite Zhao
   photo: bio-photo.jpg
@@ -133,13 +132,13 @@
   group: 8
 
 - name: Feixiang Zhou
-  photo: fxz.jpg
+  photo: bio-photo.jpg
   info: PhD Candidate
   url: https://www.linkedin.com/in/feixiang-zhou-7358a1218/
   group: 8
 
 - name: Lei Tong
-  photo: leitong.jpg
+  photo: bio-photo.jpg
   info: PhD Candidate
   url: https://leitong02.github.io/
   group: 8
@@ -151,7 +150,7 @@
   group: 8
 
 - name: Long Chen
-  photo: lc.jpg
+  photo: bio-photo.jpg
   info: PhD Candidate
   url: longchen
   group: 8

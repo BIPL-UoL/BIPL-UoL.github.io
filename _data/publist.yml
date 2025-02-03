@@ -1,9 +1,7 @@
 
 
 # 2025 Feb 2rd
-
 - title: "A gut microbiota rheostat forecasts responsiveness to PD-L1 and VEGF blockade in mesothelioma"
-  image: 11.png
   description:
   authors:
   link:
@@ -13,7 +11,6 @@
   news2:
 
 - title: "Deep learning methods for calibrated photometric stereo and beyond"
-  image: 11.png
   description:
   authors:
   link:
@@ -23,7 +20,6 @@
   news2:
 
 - title: "SMC-NCA: Semantic-guided multi-level contrast for semi-supervised temporal action segmentation"
-  image: 11.png
   description:
   authors:
   link:
@@ -33,7 +29,6 @@
   news2:
 
 - title: "SRCNet: Seminal image representation collaborative network for oil spill segmentation in SAR imagery"
-  image: 11.png
   description:
   authors:
   link:
@@ -43,7 +38,6 @@
   news2:
 
 - title: "Maximizing contrast in XOR-based visual cryptography schemes"
-  image: 11.png
   description:
   authors:
   link:
@@ -55,17 +49,16 @@
 
 # previous
 - title: "Communicating COVID-19 vaccine information to Chinese communities in the UK: a qualitative study of their knowledge, information sources and trust"
-  image: 11.png
-  description: 
+  description:
   authors: 
   link:
-    url: http://doi.org/TBA
+    url: https://doi.org/10.1136/bmjph-2023-000658
     display:  Gong, Q et al., BMJ Public Health (2024).
   highlight: 1
   news2:
   
 - title: "Underwater object detection in noisy imbalanced datasets"
-  image: Chen_L.png
+  image: under_water2024.jpg
   description: 
   authors: 
   link:
