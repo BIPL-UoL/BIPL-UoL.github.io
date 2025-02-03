@@ -144,7 +144,7 @@ permalink: /team/
 
 ---
 
-## Research Assistants
+## Research Associates
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
