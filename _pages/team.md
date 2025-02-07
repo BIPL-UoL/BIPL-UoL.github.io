@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## PhD Students (2nd Supervisor)
+## PhD Students (2nd or 3rd Supervisor)
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
