@@ -8,26 +8,26 @@
 
 - name: Zhihua Liu
   photo: zhihua.png
-  info: PhD Candidate
+  info: PhD (2020-2025)
   url: https://zhihualiued.github.io/
   group: 1
 
 - name: Xinyu Yang
   photo: xinyu.png
-  info: PhD Candidate
+  info: PhD (2021-)
   url: xinyu 
   group: 1
-  
+
 
 - name: Yihang Zhu
   photo: yihang.jpeg
-  info: PhD Candidate
+  info: PhD (2023-)
   url: https://sites.google.com/view/zhuyihang/home
   group: 1 
   
 - name: Elinor Jones
   photo: anonymous.jpeg
-  info: Part time PhD
+  info: Part time PhD (2019-)
   url:
   group: 1
 
@@ -35,45 +35,51 @@
 
 - name: Wei Xing
   photo: anonymous.jpeg
-  info: MPhil
+  info: MPhil, 1st supervisor (2021-)
   url:
   group: 2
+
+- name: Wangyang Yu
+  photo: anonymous.jpeg
+  info: MPhil, 2nd supervisor (2022-)
+  url:
+  group: 9
 
 # PhD as their second supervisor group 9
 
 - name: Guoqing Xia
   photo: guoqing.png
-  info: 2nd supervisor, with Dr. Bing Ji
+  info: PhD, 2nd supervisor, with Dr. Bing Ji (2021-)
   url: Guoqing
   group: 9
 
 - name: Shiyi Zhang
   photo: anonymous.jpeg
-  info: 2nd supervisor, with Dr. Yimei Zhu
+  info: PhD, 2nd supervisor, with Dr. Yimei Zhu (2020-)
   url: shiyi
   group: 9
 
 - name: Alanoud Alqahtani
   photo: anonymous.jpeg
-  info: 3rd supervisor
+  info: PhD, 3rd supervisor (2023-)
   url:
   group: 9
 
 - name: Donovan Anderson
   photo: anonymous.jpeg
-  info: 2nd supervisor
+  info: Part time PhD, 2nd supervisor (2020-)
   url:
   group: 9
 
 - name: Suchismita Hoare
   photo: anonymous.jpeg
-  info: 2nd supervisor
+  info: PhD, 2nd supervisor (2019-)
   url:
   group: 9
 
 - name: Mu Hua
   photo: anonymous.jpeg
-  info: 2nd supervisor
+  info: PhD, 2nd supervisor (2024-)
   url:
   group: 9
 
@@ -81,46 +87,35 @@
 
 - name: Mingzhe Li
   photo: anonymous.jpeg
-  info: 2nd supervisor
+  info: PhD, 2nd supervisor (2023-)
   url:
   group: 9
 
 
 - name: Eleanor Massey
   photo: anonymous.jpeg
-  info: 3rd supervisor
+  info: PhD, 3rd supervisor (2023-)
   url:
   group: 9
 
 
 - name: Jan Rogel
   photo: anonymous.jpeg
-  info: 2nd supervisor
+  info: PhD, 2nd supervisor (2022-)
   url:
   group: 9
 
-
-- name: Wangyang Yu
-  photo: anonymous.jpeg
-  info: 2nd supervisor
-  url:
-  group: 9
 
 - name: Mingshuo Xu
   photo: anonymous.jpeg
-  info: 3rd supervisor
+  info: PhD, 3rd supervisor (2024-)
   url:
   group: 9
 
-- name: Shiyl Zhang
-  photo: anonymous.jpeg
-  info: 2nd supervisor
-  url:
-  group: 9
 
 - name: Hequn Zhang
   photo: anonymous.jpeg
-  info: 2nd supervisor
+  info: Part time PhD, 2nd supervisor （2018-）
   url:
   group: 9
 
@@ -155,7 +150,7 @@
   
 - name: Christodoulos Rafael Ktiskakis
   photo: anonymous.jpeg
-  info: 2nd supervisor, with Prof. Rajeev Raman
+  info: 2nd supervisor, with Prof. Rajeev Raman (2015-2020)
   url: 
   group: 8
   year: 2018-2020
@@ -212,67 +207,57 @@
 
 - name: Honghui Du
   photo: anonymous.jpeg
-  info: PhD Condidate
+  info: PhD (2016-2021)
   url: https://www.linkedin.com/in/honghui-du-06980435/
   group: 8
 
 - name: Feixiang Zhou
   photo: anonymous.jpeg
-  info: PhD Candidate
+  info: PhD (2019-2023)
   url: https://www.linkedin.com/in/feixiang-zhou-7358a1218/
   group: 8
 
 - name: Lei Tong
   photo: anonymous.jpeg
-  info: PhD Candidate
+  info: PhD (2020-2024)
   url: https://leitong02.github.io/
   group: 8
 
 - name: Fang Chen
   photo: anonymous.jpeg
-  info: PhD Candidate
+  info: PhD (2019-2023)
   url: fangchen
   group: 8
 
 - name: Long Chen
   photo: anonymous.jpeg
-  info: PhD Candidate
+  info: PhD (2018-2022)
   url: longchen
   group: 8
 
-- name: Zhenyang Li
-  photo: anonymous.jpeg
-  info: 2nd supervisor, with Prof. Lu Liu
-  url: zhenyang
-  group: 8
 
 - name: Yoav Alon
   photo: anonymous.jpeg
-  info: PhD
+  info: PhD (2019-2023)
   url: zhenyang
   group: 8
 
 - name: Roin Deng
   photo: anonymous.jpeg
-  info: 2nd supervisor, PhD
+  info: 2nd supervisor, PhD (2018-2024)
   url: zhenyang
   group: 8
 
-- name: Christodoulos Rafael Ktistakis
-  photo: anonymous.jpeg
-  info: 2nd supervisor, PhD
-  url: zhenyang
-  group: 8
 
 - name: Siyuan Lu
   photo: anonymous.jpeg
-  info: 2nd supervisor, PhD
+  info: 2nd supervisor, PhD (2019-2022)
   url: zhenyang
   group: 8
 
 - name: Jialin Lyu
   photo: anonymous.jpeg
-  info: PhD
+  info: MPhil (2019-2022)
   url: zhenyang
   group: 8
 
