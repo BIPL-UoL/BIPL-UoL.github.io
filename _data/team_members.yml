@@ -25,6 +25,19 @@
   url: https://sites.google.com/view/zhuyihang/home
   group: 1 
   
+- name: Elinor Jones
+  photo: bio-photo.jpg
+  info: Part time PhD
+  url:
+  group: 1
+
+# MPhil students group 2
+
+- name: Wei Xing
+  photo: bio-photo.jpg
+  info: MPhil
+  url:
+  group: 2
 
 # PhD as their second supervisor group 9
 
@@ -39,6 +52,78 @@
   info: 2nd supervisor, with Dr. Yimei Zhu
   url: shiyi
   group: 9
+
+- name: Alanoud Alqahtani
+  photo: bio-photo.jpg
+  info: 3rd supervisor
+  url:
+  group: 9
+
+- name: Donovan Anderson
+  photo: bio-photo.jpg
+  info: 2nd supervisor
+  url:
+  group: 9
+
+- name: Suchismita Hoare
+  photo: bio-photo.jpg
+  info: 2nd supervisor
+  url:
+  group: 9
+
+- name: Mu Hua
+  photo: bio-photo.jpg
+  info: 2nd supervisor
+  url:
+  group: 9
+
+
+
+- name: Mingzhe Li
+  photo: bio-photo.jpg
+  info: 2nd supervisor
+  url:
+  group: 9
+
+
+- name: Eleanor Massey
+  photo: bio-photo.jpg
+  info: 3rd supervisor
+  url:
+  group: 9
+
+
+- name: Jan Rogel
+  photo: bio-photo.jpg
+  info: 2nd supervisor
+  url:
+  group: 9
+
+
+- name: Wangyang Yu
+  photo: bio-photo.jpg
+  info: 2nd supervisor
+  url:
+  group: 9
+
+- name: Mingshuo Xu
+  photo: bio-photo.jpg
+  info: 3rd supervisor
+  url:
+  group: 9
+
+- name: Shiyl Zhang
+  photo: bio-photo.jpg
+  info: 2nd supervisor
+  url:
+  group: 9
+
+- name: Hequn Zhang
+  photo: bio-photo.jpg
+  info: 2nd supervisor
+  url:
+  group: 9
+
 
 # Post-doc group 3
 
@@ -160,4 +245,36 @@
   info: 2nd supervisor, with Prof. Lu Liu
   url: zhenyang
   group: 8
+
+- name: Yoav Alon
+  photo: bio-photo.jpg
+  info: PhD
+  url: zhenyang
+  group: 8
+
+- name: Roin Deng
+  photo: bio-photo.jpg
+  info: 2nd supervisor, PhD
+  url: zhenyang
+  group: 8
+
+- name: Christodoulos Rafael Ktistakis
+  photo: bio-photo.jpg
+  info: 2nd supervisor, PhD
+  url: zhenyang
+  group: 8
+
+- name: Siyuan Lu
+  photo: bio-photo.jpg
+  info: 2nd supervisor, PhD
+  url: zhenyang
+  group: 8
+
+- name: Jialin Lyu
+  photo: bio-photo.jpg
+  info: PhD
+  url: zhenyang
+  group: 8
+
+
 
