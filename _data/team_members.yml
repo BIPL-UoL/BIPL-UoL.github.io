@@ -26,7 +26,7 @@
   group: 1 
   
 - name: Elinor Jones
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Part time PhD
   url:
   group: 1
@@ -34,7 +34,7 @@
 # MPhil students group 2
 
 - name: Wei Xing
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: MPhil
   url:
   group: 2
@@ -48,31 +48,31 @@
   group: 9
 
 - name: Shiyi Zhang
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor, with Dr. Yimei Zhu
   url: shiyi
   group: 9
 
 - name: Alanoud Alqahtani
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 3rd supervisor
   url:
   group: 9
 
 - name: Donovan Anderson
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor
   url:
   group: 9
 
 - name: Suchismita Hoare
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor
   url:
   group: 9
 
 - name: Mu Hua
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor
   url:
   group: 9
@@ -80,46 +80,46 @@
 
 
 - name: Mingzhe Li
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor
   url:
   group: 9
 
 
 - name: Eleanor Massey
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 3rd supervisor
   url:
   group: 9
 
 
 - name: Jan Rogel
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor
   url:
   group: 9
 
 
 - name: Wangyang Yu
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor
   url:
   group: 9
 
 - name: Mingshuo Xu
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 3rd supervisor
   url:
   group: 9
 
 - name: Shiyl Zhang
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor
   url:
   group: 9
 
 - name: Hequn Zhang
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor
   url:
   group: 9
@@ -128,7 +128,7 @@
 # Post-doc group 3
 
 - name: Dr Rui Qin
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Post-doc
   url: Rui
   group: 3
@@ -139,13 +139,13 @@
 
 
 - name: Prof Yan Peng
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Capital Normal University, China
   url: Yan
   group: 8
   
 - name: Dr. Zheheng Jiang
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: PhD (co-supervised with Dr. Michael Hoffmann)
   url: 
   group: 8
@@ -154,7 +154,7 @@
   extlink: 
   
 - name: Christodoulos Rafael Ktiskakis
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor, with Prof. Rajeev Raman
   url: 
   group: 8
@@ -162,7 +162,7 @@
   current:
 
 - name: Aite Zhao
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Visiting PhD student (OUC)
   url: 
   group: 8
@@ -170,7 +170,7 @@
   current: 
 
 - name: Dr. Weiye Xu
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Academic visitor (NJIT). Co-hosted with Prof. Reiko Heckel.
   url: 
   group: 8
@@ -178,7 +178,7 @@
   current: 
   
 - name: Dr. Changkui Lyu
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Academic visitor (NUAA). Co-hosted with Prof. Reiko Heckel.
   url: 
   group: 8
@@ -187,7 +187,7 @@
   
   
 - name: Dr. Juan Liao
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Academic visitor (AAU)
   url: 
   group: 8
@@ -195,7 +195,7 @@
   current: 
   
 - name: Prof. Xin Wang
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Academic visitor (HHU)
   url: 
   group: 8
@@ -203,7 +203,7 @@
   current: 
   
 - name: Prof. Yong Hu,
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: Academic visitor (HKU).
   url: 
   group: 8
@@ -211,67 +211,67 @@
   current: 
 
 - name: Honghui Du
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: PhD Condidate
   url: https://www.linkedin.com/in/honghui-du-06980435/
   group: 8
 
 - name: Feixiang Zhou
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: PhD Candidate
   url: https://www.linkedin.com/in/feixiang-zhou-7358a1218/
   group: 8
 
 - name: Lei Tong
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: PhD Candidate
   url: https://leitong02.github.io/
   group: 8
 
 - name: Fang Chen
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: PhD Candidate
   url: fangchen
   group: 8
 
 - name: Long Chen
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: PhD Candidate
   url: longchen
   group: 8
 
 - name: Zhenyang Li
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor, with Prof. Lu Liu
   url: zhenyang
   group: 8
 
 - name: Yoav Alon
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: PhD
   url: zhenyang
   group: 8
 
 - name: Roin Deng
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor, PhD
   url: zhenyang
   group: 8
 
 - name: Christodoulos Rafael Ktistakis
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor, PhD
   url: zhenyang
   group: 8
 
 - name: Siyuan Lu
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: 2nd supervisor, PhD
   url: zhenyang
   group: 8
 
 - name: Jialin Lyu
-  photo: bio-photo.jpg
+  photo: anonymous.jpeg
   info: PhD
   url: zhenyang
   group: 8
