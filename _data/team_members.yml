@@ -6,12 +6,6 @@
 
 # PhD as their first supervisor group 1
 
-- name: Zhihua Liu
-  photo: zhihua.png
-  info: PhD (2020-2025)
-  url: https://zhihualiued.github.io/
-  group: 1
-
 - name: Xinyu Yang
   photo: xinyu.png
   info: PhD (2021-)
@@ -205,51 +199,51 @@
   year: 5/2019
   current: 
 
-- name: Honghui Du
+- name: Dr. Honghui Du
   photo: anonymous.jpeg
   info: PhD (2016-2021)
   url: https://www.linkedin.com/in/honghui-du-06980435/
   group: 8
 
-- name: Feixiang Zhou
+- name: Dr. Feixiang Zhou
   photo: anonymous.jpeg
   info: PhD (2019-2023)
   url: https://www.linkedin.com/in/feixiang-zhou-7358a1218/
   group: 8
 
-- name: Lei Tong
+- name: Dr. Lei Tong
   photo: anonymous.jpeg
   info: PhD (2020-2024)
   url: https://leitong02.github.io/
   group: 8
 
-- name: Fang Chen
+- name: Dr. Fang Chen
   photo: anonymous.jpeg
   info: PhD (2019-2023)
   url: fangchen
   group: 8
 
-- name: Long Chen
+- name: Dr. Long Chen
   photo: anonymous.jpeg
   info: PhD (2018-2022)
   url: longchen
   group: 8
 
 
-- name: Yoav Alon
+- name: Dr. Yoav Alon
   photo: anonymous.jpeg
   info: PhD (2019-2023)
   url: zhenyang
   group: 8
 
-- name: Roin Deng
+- name: Dr. Roin Deng
   photo: anonymous.jpeg
   info: 2nd supervisor, PhD (2018-2024)
   url: zhenyang
   group: 8
 
 
-- name: Siyuan Lu
+- name: Dr. Dr.Siyuan Lu
   photo: anonymous.jpeg
   info: 2nd supervisor, PhD (2019-2022)
   url: zhenyang
@@ -261,5 +255,9 @@
   url: zhenyang
   group: 8
 
-
+- name: Zhihua Liu
+  photo: zhihua.png
+  info: PhD (2020-2025)
+  url: https://zhihualiued.github.io/
+  group: 8
 
