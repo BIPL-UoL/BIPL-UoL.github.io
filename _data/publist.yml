@@ -1,3 +1,336 @@
+#- title: "DUAL: A Dual-Stage Approach for Facial Expression Recognition Based on Contrastive Learning"
+#  image: zhua2025.png
+#  description:
+#  authors: Zhu, A., Jia, X., Yang, L., Zhou, H. and Su, W.
+#  link:
+#    url:
+#    display: Zhu, A., et al., International Journal of Intelligent Systems (2025).
+#  highlight: 1
+#  news2:
+
+#- title: "MIP-CLIP: Multimodal independent prompt CLIP for action recognition"
+#  image: gaox2025.png
+#  description:
+#  authors: Gao, X., Chang, Z., Kong, D., Zhou, H. and Lu, Y.
+#  link:
+#    url:
+#    display: Gao, X., et al., IEEE Trans. on Multimedia (Accepted).
+#  highlight: 1
+#  news2:
+
+- title: "Boundary-aware shape recognition using dynamic graph convolutional networks"
+  image: zhaoj2026.png
+  description:
+  authors: Zhao, J., Dong, J., Zhou, H. and Dong, X.
+  link:
+    url: https://doi.org/10.1016/j.patcog.2025.112511
+    display: Zhao, J., et al., Pattern Recognition (2026).
+  highlight: 1
+  news2:
+
+- title: "Double uncertainty-aware learning network for multi-modal cell image segmentation"
+  image: zhaol2025.png
+  description:
+  authors: Zhao, L., Yang, J., Li, K., Ding, W. and Zhou, H.
+  link:
+    url: https://doi.org/10.1109/JBHI.2025.3615611
+    display: Zhao, L., et al., IEEE Journal of Biomedical and Health Informatics (2025).
+  highlight: 1
+  news2:
+
+- title: "A fast gray-box adversarial example generation algorithm based on FakeBob"
+  image: zhengj2025.png
+  description:
+  authors: Zheng, J., Hou, W., Zhang, H., Lv, M. and Zhou, H.
+  link:
+    url: https://doi.org/10.1016/j.hcc.2025.100337
+    display: Zheng, J., et al., High-Confidence Computing (Accepted).
+  highlight: 1
+  news2:
+
+- title: "Unsupervised cross-domain semantic segmentation on multi-modality ovarian tumor ultrasound data"
+  image: lyus2026.png
+  description:
+  authors: Lyu, S., Zhao, Q., Bai, W., Cai, L., Cheng, G., Cui, G., Yang, M., Chen, L. and Zhou, H.
+  link:
+    url: https://doi.org/10.1016/j.patcog.2025.112311
+    display: Lyu, S., et al., Pattern Recognition (2026).
+  highlight: 1
+  news2:
+
+- title: "MICCAI 2023 STS Challenge: A retrospective study of semi-supervised learning approaches for teeth segmentation"
+  image: wangy2026.png
+  description:
+  authors: Wang, Y., Zhang, Y., Chen, X., Wang, S., Qian, D., Ye, F., Xu, F., Zhang, F., Dan, R., Zhang, Q., Huang, X., Huang, Z., Liu, J., Zheng, Z., Wu, C., Li, Y., Li, Z., Ma, Z., Cui, W., Luo, S. and Jin, Q.
+  link:
+    url: https://doi.org/10.1016/j.patcog.2025.112049
+    display: Wang, Y., et al., Pattern Recognition (2026).
+  highlight: 1
+  news2:
+
+- title: "DiffClick: Click-differentiated enhancement network for interactive segmentation"
+  image: songs2026.png
+  description:
+  authors: Song, S., Yu, S., Zhou, H., Huang, X., Yu, L. and Xiao, J.
+  link:
+    url: https://doi.org/10.1016/j.patcog.2025.112217
+    display: Song, S., et al., Pattern Recognition (2026).
+  highlight: 1
+  news2:
+
+- title: "Multi-aspect fusion foundational large vision model for visible light medical imaging segmentation"
+  image: huangx2025.png
+  description:
+  authors: Huang, X., Zhang, T., Xu, Z., Huang, J., Huang, G., Yang, H., Zou, B., Ding, S., Ruan, R., Huang, Z., Zhou, H., Liu, J., Zheng, Z., Jiang, S. and Zhang, X.
+  link:
+    url: https://doi.org/10.1016/j.inffus.2025.103385
+    display: Huang, X., et al., Information Fusion (2025).
+  highlight: 1
+  news2:
+
+- title: "From missing pieces to masterpieces: Image completion with context-adaptive diffusion"
+  image: shamsolmoalip2025.png
+  description:
+  authors: Shamsolmoali, P., Zarepoor, M., Zhou, H., Felsberg, M., Tao, D. and Li, X.
+  link:
+    url: https://doi.org/10.1109/TPAMI.2025.3558092
+    display: Shamsolmoali, P., et al., IEEE Trans. on Pattern Analysis and Machine Intelligence (2025).
+  highlight: 1
+  news2:
+
+- title: "Constitutive inflammation and epithelial-mesenchymal transition dictate sensitivity to nivolumab in CONFIRM: a placebo-controlled, randomised phase III trial"
+  image: fennelld2025.png
+  description:
+  authors: Fennell, D.A., Hill, K., Zhang, M., Poile, C., Ewings, S., Baitei, E.Y., Dzialo, J., Nusrat, N., Rogel, J., Faulkner, D., Ottensmeier, C., Califano, R., Hanna, G.G., Danson, S., Steele, N., Nye, Mavis, Johnson, L., Mallard, K., Lord, J., Middleton, C., Sclosarek, P., Chan, S., Darlison, L., Wells-Jordan, P., Richards, C., Harber, J., Bzura, A., Spicer, J., Pritchard, C., Kamata, T., Hahne, J.C., Jama, M., Hollox, E.J., Lester, J.F., Luo, J.-L., Zhou, Z., Yang, H., Zhou, H., Klampatsa, A. and Griffiths, G.O.
+  link:
+    url: https://www.nature.com/articles/s41467-025-61691-4
+    display: Fennell, D.A., et al., Nature Communications (2025).
+  highlight: 1
+  news2:
+
+- title: "General sparse adversarial attack method for SAR images based on key points"
+  image: gaof2025.png
+  description:
+  authors: Gao, F., Li, M., Wang, J., Sun, J., Hussain, A. and Zhou, H.
+  link:
+    url: https://doi.org/10.1109/TAES.2025.3588821
+    display: Gao, F., et al., IEEE Trans. on Aerospace and Electronic Systems (2025).
+  highlight: 1
+  news2:
+
+- title: "The retina as a window into detecting subclinical cardiovascular disease in type 2 diabetes"
+  image: alatranyas2025.png
+  description:
+  authors: Alatrany, A.S., Lakhani, K., Cowley, A.C., Yeo, J.L., Dattani, A., Ayton, S.L., Deshpande, A., Graham-Brown, M.P.M., Davies, M.J., Khunti, K., Yates, T., Sellers, S.L., Zhou, H., Brady, E.M., Arnold, J.R., Deane, J., McLean, R.J., Proundlock, F.A., McCann, G.P. and Gulsin, G.S.
+  link:
+    url: https://www.nature.com/articles/s41598-025-13468-4
+    display: Alatrany, A.S., et al., Scientific Reports (2025).
+  highlight: 1
+  news2:
+
+- title: "TBRNet: Two-branch reinforcement network for few-shot semantic segmentation in remote sensing images"
+  image: wangx2025.png
+  description:
+  authors: Wang, X., Jiang, Y. and Zhou, H.
+  link:
+    url: https://doi.org/10.1109/TGRS.2025.3598808
+    display: Wang, X., et al., IEEE Trans. on Geoscience and Remote Sensing (2025).
+  highlight: 1
+  news2:
+
+- title: "Surface water mapping from remote sensing in Egypt's dry season using an improved U-Net model with multi-scale information and attention mechanism"
+  image: liy2025.png
+  description:
+  authors: Li, Y., Liu, X., Ferreira, V., Balzter, H., Zhou, H., Ge, Y., Lai, M., Chu, S., Ding, H. and Gu, Z.
+  link:
+    url: https://doi.org/10.1016/j.jag.2025.104666
+    display: Li, Y., et al., International Journal of Applied Earth Observation and Geoinformation (2025).
+  highlight: 1
+  news2:
+
+- title: "Single target tracking with contextual prompts in scene understanding"
+  image: liux2025.png
+  description:
+  authors: Liu, X., Zhou, H., Dong, J., Xiao, J. and Dong, X.
+  link:
+    url: https://doi.org/10.1109/TAI.2025.3601075
+    display: Liu, X., et al., IEEE Trans. on Artificial Intelligence (Accepted).
+  highlight: 1
+  news2:
+
+- title: "A comprehensive framework for out-of-distribution detection and open-set recognition in SAR targets"
+  image: gaof2025_2.png
+  description:
+  authors: Gao, F., Huang, H., Wang, J., Sun, J., Hussain, A. and Zhou, H.
+  link:
+    url: https://doi.org/10.1109/JSTARS.2025.3580373
+    display: Gao, F., et al., IEEE J of Selected Topics in Applied Earth Observations and Remote Sensing (2025).
+  highlight: 1
+  news2:
+
+- title: "Artificial intelligence-enabled detection and assessment of Parkinson's disease using multimodal data: A survey"
+  image: zhaoa2025.png
+  description:
+  authors: Zhao, A., Liu, Y., Yu, X., Xing, X. and Zhou, H.
+  link:
+    url: https://doi.org/10.1016/j.inffus.2025.103175
+    display: Zhao, A., et al., Information Fusion (2025).
+  highlight: 1
+  news2:
+
+- title: "Scattering characteristics guided network for ISAR space target component segmentation"
+  image: zhongf2025.png
+  description:
+  authors: Zhong, F., Gao, F., Liu, T., Wang, J., Sun, J. and Zhou, H.
+  link:
+    url: https://doi.org/10.1109/LGRS.2025.3576662
+    display: Zhong, F., et al., IEEE Geoscience and Remote Sensing Letters (2025).
+  highlight: 1
+  news2:
+
+- title: "Population-based meta-heuristic optimization algorithm booster: An evolutionary and learning scheme"
+  image: wangj2025.png
+  description:
+  authors: Wang, J., Dong, J, Zhou, H. and Dong X.
+  link:
+    url: https://doi.org/10.1016/j.neucom.2025.130405
+    display: Wang, J., et al., Neurocomputing (2025).
+  highlight: 1
+  news2:
+
+- title: "DP-YOLO: A lightweight traffic sign detection model for small object detection"
+  image: qiuj2025.png
+  description:
+  authors: Qiu, J., Zhang, W., Xu, S. and Zhou, H.
+  link:
+    url: https://doi.org/10.1016/j.dsp.2025.105311
+    display: Qiu, J., et al., Digital Signal Processing (2025).
+  highlight: 1
+  news2:
+
+- title: "Energy-based pseudo-label refining for source-free domain adaptation"
+  image: mengx2025.png
+  description:
+  authors: Meng, X., Sun, H., Liu, J., Liu, N. and Zhou, H.
+  link:
+    url: https://doi.org/10.1016/j.patrec.2025.04.004
+    display: Meng, X., et al., Pattern Recognition Letters (2025).
+  highlight: 1
+  news2:
+
+- title: "Temporal-feedback self-training for semi-supervised object detection in remote sensing images"
+  image: zhux2025.png
+  description:
+  authors: Zhu, X., Zhang, X., Zhang, T., Tang, X., Chen, P., Zhou, H. and Jiao, L.
+  link:
+    url: https://doi.org/10.1109/TGRS.2025.3559224
+    display: Zhu, X., et al., IEEE Trans. on Geoscience and Remote Sensing (2025).
+  highlight: 1
+  news2:
+
+- title: "Deep content and contrastive perception learning for automatic fetal nuchal translucency image quality assessment"
+  image: zhaol2025_2.png
+  description:
+  authors: Zhao, L., Xu, Y., Xu, J., Ding, W., Yang, J., Zhou, H., Du, Y., Hu, B., Zhang, L. and Wang, Q.
+  link:
+    url: https://doi.org/10.1016/j.engappai.2025.110687
+    display: Zhao, L., et al., Engineering Applications of Artificial Intelligence (2025).
+  highlight: 1
+  news2:
+
+- title: "Prompt-based polyp segmentation during endoscopy"
+  image: renx2025.png
+  description:
+  authors: Ren, X., Zhou, W., Yuan, N., Li, F., Ruan, Y. and Zhou, H.
+  link:
+    url: https://doi.org/10.1016/j.media.2025.103510
+    display: Ren, X., et al., Medical Image Analysis (2025).
+  highlight: 1
+  news2:
+
+- title: "Binary Banyan tree growth optimization: A practical approach to high-dimensional feature selection"
+  image: wux2025.png
+  description:
+  authors: Wu, X., Fei, M., Zhou, W., Du, S., Fei, Z. and Zhou, H.
+  link:
+    url: https://doi.org/10.1016/j.knosys.2025.113252
+    display: Wu, X., et al., Knowledge-Based Systems (2025).
+  highlight: 1
+  news2:
+
+- title: "Surface multiple object tracking: an accurate HAT-YOLOv8-ADT tracking model"
+  image: linn2025.png
+  description:
+  authors: Lin, N., Zhang, L., Wu, T., Hawbani, A., Zhou, H. and Zhao, L.
+  link:
+    url: https://doi.org/10.1109/JIOT.2025.3539852
+    display: Lin, N., et al., IEEE Internet of Things (2025).
+  highlight: 1
+  news2:
+
+- title: "Cross-skeleton interaction graph aggregation network for representation learning of mouse social behaviour"
+  image: zhouf2025.png
+  description:
+  authors: Zhou, F., Yang, X., Chen, F., Chen, L., Jiang, Z., Zhu, H., Heckel, R., Wang, H., Fei, M. and Zhou, H.
+  link:
+    url: https://doi.org/10.1109/TIP.2025.3528218
+    display: Zhou, F., et al., IEEE Trans. on Image Processing (2025).
+  highlight: 1
+  news2:
+
+# 2025 Oct 19
+
+- title: "F2Attack: Two-factors scoring method for query-efficient hard-label black-box textual adversarial attacks"
+  image: wangjiahui2025.png
+  description:
+  authors:
+  link:
+    url:
+    display:  Wang, j., et al.,  IEEE Trans. on Information Forensics and Security (2025).
+  highlight: 1
+  news2:
+
+- title: "Moderators of Peer Influence Effects for Adolescents’ Smoking and Vaping Norms and Outcomes in High and Middle-Income Settings"
+  image: moderators2024.png
+  description:
+  authors:
+  link:
+    url:
+    display:  Murray, J.M., et al., Frontiers in Psychology (2024).
+  highlight: 1
+  news2:
+
+- title: "MCao: Multi-branch coronary artery occlusion localization using real-imaginary enhancement Fourier wavelet-KAN"
+  image: mcao2026.png
+  description:
+  authors:
+  link:
+    url: https://doi.org/10.1016/j.bspc.2025.108718
+    display:  Chen, X., et al., Biomedical Signal Processing and Control (2026).
+  highlight: 1
+  news2:
+
+- title: "PricoMS: Prior-coordinated Multiscale Synthesis Network for Self-supervised–Aided Vessel Segmentation in Intravascular Ultrasound Image Amidst Label Scarcity"
+  image: pricoMS.jpeg
+  description:
+  authors:
+  link:
+    url: https://doi.org/10.1016/j.knosys.2025.114636
+    display:  Huang, X., et al., Knowledge-Based Systems (2025).
+  highlight: 1
+  news2:
+
+- title: "Photometric Regularization for 3D Gaussian Splatting in Multi-View Surface Projection"
+  image: YakunJu2021Photo.png
+  description:
+  authors:
+  link:
+    url: https://doi.org/10.1109/JSTSP.2025.3617861
+    display:  Ju, Y., et al., IEEE Journal of Selected Topics in Signal Processing (2021).
+  highlight: 1
+  news2:
+
+
 
 
 # 2025 Feb 2rd
